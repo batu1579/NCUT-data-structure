@@ -7,6 +7,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- 顺序表题目和解答
+
 ## [0.0.1] - 2022-09-12
 
 - initial release
