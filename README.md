@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Hamibot 开发助手 👋</h1>
+<h1 align="center">Welcome to 数据结构课存档 👋</h1>
 <p align="center">
     <a href="https://github.com/batu1579/NCUT-data-structure/blob/main/LICENSE" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/github/license/batu1579/NCUT-data-structure">
@@ -11,6 +11,8 @@
 ## 🎉 目录
 
 - [顺序表]
+- [单链表]
+
 ## 📋 更新日志
 
 查看 [更新日志] 。
