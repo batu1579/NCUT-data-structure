@@ -1,3 +1,4 @@
+#pragma once
 #define DEFAULT_MAX_SIZE 20 
 
 typedef struct {

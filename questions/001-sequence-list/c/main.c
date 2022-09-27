@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 #include "../../define/c/util.h"
-#include "./library/SeqList.h"
+#include "./library/SeqList.c"
+
+typedef int DataType;
 
 State insertElement(SeqList* list, DataType element);
 

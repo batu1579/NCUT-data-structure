@@ -40,6 +40,12 @@ State printSeqList(SeqList* list) {
 	return OK;
 }
 
+/**
+ * @description: 重新分配顺序表的空间。
+ * @param {SeqList*} list 顺序表对象。
+ * @param {int} newSize 要设置的新的大小。
+ * @return {State} 分配是否成功。
+ */
 State resizeSeqList(SeqList* list, int newSize) {
 	// 如果新的容量不合法则改为原来最大空间的二倍
 	newSize = newSize < list->length ? list->maxSize * 2 : newSize;
